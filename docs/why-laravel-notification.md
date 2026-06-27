@@ -1,9 +1,3 @@
-Le document gagnerait en impact si tu le présentes non pas comme une documentation technique, mais comme une **note d'architecture** expliquant le problème rencontré, les limites des solutions existantes et la philosophie derrière Laravel Notification.
-
-Voici une version beaucoup plus orientée vision, architecture et extensibilité.
-
----
-
 # Pourquoi j'ai créé Laravel Notification
 
 ## Le problème
