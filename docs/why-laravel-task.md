@@ -126,19 +126,19 @@ Je ne voulais pas créer un système d'envoi de notifications.
 
 Je voulais créer un moteur capable d'exécuter n'importe quel travail.
 
-Une notification n'est qu'une tâche.
+- Une notification n'est qu'une tâche.
 
-Une synchronisation est une tâche.
+- Une synchronisation est une tâche.
 
-Un import est une tâche.
+- Un import est une tâche.
 
-Un backup est une tâche.
+- Un backup est une tâche.
 
-Un nettoyage est une tâche.
+- Un nettoyage est une tâche.
 
-Une génération de PDF est une tâche.
+- Une génération de PDF est une tâche.
 
-Un calcul statistique est une tâche.
+- Un calcul statistique est une tâche.
 
 Laravel Task est donc devenu un moteur générique.
 
